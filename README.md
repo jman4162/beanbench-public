@@ -15,5 +15,9 @@ Log your pour overs, dial in your espresso, and track every cafe visit.
 Found a bug or have a feature request?
 [Open an Issue](https://github.com/jman4162/beanbench-public/issues)
 
+## Legal
+[Privacy Policy](https://github.com/jman4162/app-policies/blob/main/beanbench/privacy.md)
+[Terms of Use](https://github.com/jman4162/app-policies/blob/main/beanbench/terms.md)
+
 ## Contact
 Created by John Hodge.
